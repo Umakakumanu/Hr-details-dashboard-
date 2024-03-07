@@ -1,1 +1,2 @@
-# Hr-details-dashboard-
+# # HR-details-Dashboard 
+I transformed raw data into actionable insights, enabling informed decision-making processes. Leveraging my technical expertise, I created impactful visuals and reports to effectively communicate complex data findings. By implementing dynamic slicers and filters, the reporting became interactive and responsive, facilitating easier exploration of data. These efforts showcased my ability to contribute to organizational strategies by delivering clear and understandable insights derived from complex datasets.
